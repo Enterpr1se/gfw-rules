@@ -15,8 +15,8 @@ DOMAIN-SUFFIX,bitspay.io
 DOMAIN-SUFFIX,bitvavo.com
 DOMAIN-SUFFIX,bitvenus.com
 DOMAIN-SUFFIX,blocktempo.com
-DOMAIN-SUFFIX,blogs.icerocket.com
-DOMAIN-SUFFIX,blogs.libraryinformationtechnology.com
+DOMAIN-SUFFIX,icerocket.com
+DOMAIN-SUFFIX,libraryinformationtechnology.com
 DOMAIN-SUFFIX,blogs.tampabay.com
 DOMAIN-SUFFIX,blogsys.jp
 DOMAIN-SUFFIX,bolin.netfirms.com
@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,cloud.mail.ru
 DOMAIN-SUFFIX,cmmedia.com.tw
 DOMAIN-SUFFIX,cmp.hku.hk
 DOMAIN-SUFFIX,cn-Proxy.com
-DOMAIN-SUFFIX,cn2.streetvoice.com
+DOMAIN-SUFFIX,streetvoice.com
 DOMAIN-SUFFIX,cnnews.chosun.com
 DOMAIN-SUFFIX,co.ng.mil
 DOMAIN-SUFFIX,coinledger.io
@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,danielzvereff.com
 DOMAIN-SUFFIX,danwei.org
 DOMAIN-SUFFIX,ddns.ms
 DOMAIN-SUFFIX,deepcoin.com
-DOMAIN-SUFFIX,demo.opera-mini.net
+DOMAIN-SUFFIX,opera-mini.net
 DOMAIN-SUFFIX,derekhsu.homeip.net
 DOMAIN-SUFFIX,destiny.xfiles.to
 DOMAIN-SUFFIX,developers.box.net
@@ -103,7 +103,6 @@ DOMAIN-SUFFIX,entnt.com
 DOMAIN-SUFFIX,epochweekly.com
 DOMAIN-SUFFIX,eroimg.net
 DOMAIN-SUFFIX,esjzone.cc
-DOMAIN-SUFFIX,etools.ncol.com
 DOMAIN-SUFFIX,evchk.fandom.com
 DOMAIN-SUFFIX,exoclick.com
 DOMAIN-SUFFIX,exosrv.com
@@ -116,14 +115,12 @@ DOMAIN-SUFFIX,faProxy.com
 DOMAIN-SUFFIX,falun.caltech.edu
 DOMAIN-SUFFIX,fami.tw
 DOMAIN-SUFFIX,fast-mx.de
-DOMAIN-SUFFIX,fast.wistia.com
 DOMAIN-SUFFIX,fastvpn.com
 DOMAIN-SUFFIX,fb.gg
-DOMAIN-SUFFIX,feeds.fileforum.com
 DOMAIN-SUFFIX,fgmtv.org
 DOMAIN-SUFFIX,fi11av168.com
 DOMAIN-SUFFIX,filmy.olabloga.pl
-DOMAIN-SUFFIX,forum.slime.com.tw
+DOMAIN-SUFFIX,slime.com.tw
 DOMAIN-SUFFIX,fountmedia.io
 DOMAIN-SUFFIX,free-Proxy.cz
 DOMAIN-SUFFIX,fujitv.co.jp
@@ -156,7 +153,6 @@ DOMAIN-SUFFIX,hecaitou.com
 DOMAIN-SUFFIX,heix.pp.ru
 DOMAIN-SUFFIX,hk01sso.com
 DOMAIN-SUFFIX,hkatv.com
-DOMAIN-SUFFIX,hkcoc.weather.com.hk
 DOMAIN-SUFFIX,hkdao.info
 DOMAIN-SUFFIX,hkfeature.com
 DOMAIN-SUFFIX,hkgalden.com
