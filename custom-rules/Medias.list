@@ -15,7 +15,6 @@ DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
 DOMAIN-SUFFIX,5itv.tv
-DOMAIN-SUFFIX,ntv.co.jp
 DOMAIN-SUFFIX,9now.com.au
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -62,6 +61,7 @@ DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,directv.com
 DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,dotdotnews.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,encoretvb.com
@@ -75,8 +75,6 @@ DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-DOMAIN-SUFFIX,nhk.jp
-DOMAIN-SUFFIX,nhkworld.jp
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,joox.com
@@ -92,8 +90,11 @@ DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,my5.tv
 DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhkworld.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,ntv.co.jp
 DOMAIN-SUFFIX,ocnttv.com
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,pandora.com
