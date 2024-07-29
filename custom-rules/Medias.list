@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,mediatech-ssc.net
 DOMAIN-SUFFIX,my5.tv
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,nhk.jp
@@ -113,7 +114,7 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,rthk.live.ott.irdeto.com
+DOMAIN,rthk.live.ott.irdeto.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skyking.com.tw
